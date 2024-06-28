@@ -1,0 +1,15 @@
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.deps.json
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Common.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Common.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.AssemblyInfo.cs
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.csproj.CopyComplete
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\refint\Empresa.MiComercio.Transversal.Logging.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Logging.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Logging\obj\Debug\net6.0\ref\Empresa.MiComercio.Transversal.Logging.dll

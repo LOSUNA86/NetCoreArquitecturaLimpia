@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pn4NqCAFDR86JWXzc9Twvxs1ykCDi6I19unspkw5b5ICZMfseO/LOvZmN5KG5dYQsKPIV8FV4zyfjEcd4LyYOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Application.Validator\\Empresa.MiComercio.Application.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Osuna\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\Luis Osuna\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
+    "C:\\Users\\Luis Osuna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

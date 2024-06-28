@@ -1,0 +1,12 @@
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\bin\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.deps.json
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\bin\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\bin\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\refint\Empresa.MiComercio.Infrastructure.Data.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\Empresa.MiComercio.Infrastructure.Data.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Infrastructure.Data\obj\Debug\net6.0\ref\Empresa.MiComercio.Infrastructure.Data.dll

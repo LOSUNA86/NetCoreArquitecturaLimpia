@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Empresa.MiComercio.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Empresa.MiComercio.Application.DTO": "1.0.0",
+          "Empresa.MiComercio.Domain": "1.0.0",
+          "Empresa.MiComercio.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Empresa.MiComercio.Application.Interface.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Application.DTO/1.0.0": {
+        "runtime": {
+          "Empresa.MiComercio.Application.DTO.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Domain/1.0.0": {
+        "runtime": {
+          "Empresa.MiComercio.Domain.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Empresa.MiComercio.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empresa.MiComercio.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresa.MiComercio.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresa.MiComercio.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresa.MiComercio.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

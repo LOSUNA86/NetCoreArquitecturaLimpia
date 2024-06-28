@@ -1,0 +1,182 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Empresa.MiComercio.Application.Main/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "Empresa.MiComercio.Application.DTO": "1.0.0",
+          "Empresa.MiComercio.Application.Interface": "1.0.0",
+          "Empresa.MiComercio.Application.Validator": "1.0.0",
+          "Empresa.MiComercio.Domain.Entity": "1.0.0",
+          "Empresa.MiComercio.Domain.Interface": "1.0.0",
+          "Empresa.MiComercio.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Empresa.MiComercio.Application.Main.dll": {}
+        }
+      },
+      "AutoMapper/11.0.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.0"
+          }
+        }
+      },
+      "FluentValidation/11.1.1": {
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.1.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.1.0": {
+        "dependencies": {
+          "FluentValidation": "11.1.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.1.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.18136"
+          }
+        }
+      },
+      "Empresa.MiComercio.Application.DTO/1.0.0": {
+        "runtime": {
+          "Empresa.MiComercio.Application.DTO.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Empresa.MiComercio.Application.DTO": "1.0.0",
+          "Empresa.MiComercio.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Empresa.MiComercio.Application.Interface.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Application.Validator/1.0.0": {
+        "dependencies": {
+          "Empresa.MiComercio.Application.DTO": "1.0.0",
+          "FluentValidation": "11.1.1",
+          "FluentValidation.DependencyInjectionExtensions": "11.1.0"
+        },
+        "runtime": {
+          "Empresa.MiComercio.Application.Validator.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Empresa.MiComercio.Domain.Entity.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Empresa.MiComercio.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Empresa.MiComercio.Domain.Interface.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Transversal.Common/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.1.1"
+        },
+        "runtime": {
+          "Empresa.MiComercio.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empresa.MiComercio.Application.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoMapper/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
+      "path": "automapper/11.0.1",
+      "hashPath": "automapper.11.0.1.nupkg.sha512"
+    },
+    "FluentValidation/11.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0rviOsKbNzoQUQsagwt1WVVYKSDfaZboKIvdfL4T8xSsX2ZUzJ5sIm1pdV2uLpZysgdpBsOAAnGMabewTMQhzg==",
+      "path": "fluentvalidation/11.1.1",
+      "hashPath": "fluentvalidation.11.1.1.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M9U2hLZc8bx0JthQKsN9SVgQSHJeLMcSV/uCmJ23U+/7HCSeOYD4OXoF+p5U3bLGz6Yp7h0/0XbSL+Qv2S38EQ==",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.1.0",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8/CtASu80UIoyG+r8FstrmZW5GLtXxzoYpjj3jV0FKZCL5CiFgSH3pAmqut/dC68mu7N1bU6v0UtKKL3gCUQGQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    },
+    "Empresa.MiComercio.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresa.MiComercio.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresa.MiComercio.Application.Validator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresa.MiComercio.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresa.MiComercio.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresa.MiComercio.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

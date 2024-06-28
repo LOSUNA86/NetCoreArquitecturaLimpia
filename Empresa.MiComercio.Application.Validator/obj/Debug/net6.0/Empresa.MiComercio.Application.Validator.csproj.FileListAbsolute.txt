@@ -1,0 +1,15 @@
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\bin\Debug\net6.0\Empresa.MiComercio.Application.Validator.deps.json
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\bin\Debug\net6.0\Empresa.MiComercio.Application.Validator.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\bin\Debug\net6.0\Empresa.MiComercio.Application.Validator.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\bin\Debug\net6.0\Empresa.MiComercio.Application.DTO.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\bin\Debug\net6.0\Empresa.MiComercio.Application.DTO.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\Empresa.MiComercio.Application.Validator.csproj.AssemblyReference.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\Empresa.MiComercio.Application.Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\Empresa.MiComercio.Application.Validator.AssemblyInfoInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\Empresa.MiComercio.Application.Validator.AssemblyInfo.cs
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\Empresa.MiComercio.Application.Validator.csproj.CoreCompileInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\Empresa.MiComercio.Application.Validator.csproj.CopyComplete
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\Empresa.MiComercio.Application.Validator.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\refint\Empresa.MiComercio.Application.Validator.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\Empresa.MiComercio.Application.Validator.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Validator\obj\Debug\net6.0\ref\Empresa.MiComercio.Application.Validator.dll

@@ -1,0 +1,12 @@
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Common.deps.json
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Common.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Common.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Common.AssemblyInfo.cs
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Common.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\refint\Empresa.MiComercio.Transversal.Common.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\Empresa.MiComercio.Transversal.Common.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Common\obj\Debug\net6.0\ref\Empresa.MiComercio.Transversal.Common.dll

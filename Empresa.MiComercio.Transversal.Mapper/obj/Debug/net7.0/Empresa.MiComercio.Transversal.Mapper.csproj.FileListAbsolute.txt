@@ -1,0 +1,17 @@
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\bin\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.deps.json
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\bin\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\bin\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\bin\Debug\net7.0\Empresa.MiComercio.Application.DTO.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\bin\Debug\net7.0\Empresa.MiComercio.Domain.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\bin\Debug\net7.0\Empresa.MiComercio.Application.DTO.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\bin\Debug\net7.0\Empresa.MiComercio.Domain.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\Empresa..A0935AFA.Up2Date
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\refint\Empresa.MiComercio.Transversal.Mapper.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\Empresa.MiComercio.Transversal.Mapper.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Transversal.Mapper\obj\Debug\net7.0\ref\Empresa.MiComercio.Transversal.Mapper.dll

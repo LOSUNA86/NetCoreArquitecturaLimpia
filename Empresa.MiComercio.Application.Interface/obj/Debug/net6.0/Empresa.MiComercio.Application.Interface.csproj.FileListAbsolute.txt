@@ -1,0 +1,17 @@
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\bin\Debug\net6.0\Empresa.MiComercio.Application.Interface.deps.json
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\bin\Debug\net6.0\Empresa.MiComercio.Application.Interface.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\bin\Debug\net6.0\Empresa.MiComercio.Application.Interface.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\bin\Debug\net6.0\Empresa.MiComercio.Application.DTO.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Common.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\bin\Debug\net6.0\Empresa.MiComercio.Application.DTO.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\bin\Debug\net6.0\Empresa.MiComercio.Transversal.Common.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\Empresa.MiComercio.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\Empresa.MiComercio.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\Empresa.MiComercio.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\Empresa.MiComercio.Application.Interface.AssemblyInfo.cs
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\Empresa.MiComercio.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\Empresa.MiComercio.Application.Interface.csproj.CopyComplete
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\Empresa.MiComercio.Application.Interface.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\refint\Empresa.MiComercio.Application.Interface.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\Empresa.MiComercio.Application.Interface.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.Interface\obj\Debug\net6.0\ref\Empresa.MiComercio.Application.Interface.dll

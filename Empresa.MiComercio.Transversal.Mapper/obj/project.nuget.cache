@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rV+xAvm15xOFHOc24yI8A7PBab5I21Thy6TKAdKqsNgvZCeiFOeRKNqHH3o1YV5/NelsQOBEO8MW2vUeQGkiHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Transversal.Mapper\\Empresa.MiComercio.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Osuna\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Luis Osuna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

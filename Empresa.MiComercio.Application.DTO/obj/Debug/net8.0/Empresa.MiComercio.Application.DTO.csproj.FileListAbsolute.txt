@@ -1,0 +1,11 @@
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\bin\Debug\net8.0\Empresa.MiComercio.Application.DTO.deps.json
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\bin\Debug\net8.0\Empresa.MiComercio.Application.DTO.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\bin\Debug\net8.0\Empresa.MiComercio.Application.DTO.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\obj\Debug\net8.0\Empresa.MiComercio.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\obj\Debug\net8.0\Empresa.MiComercio.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\obj\Debug\net8.0\Empresa.MiComercio.Application.DTO.AssemblyInfo.cs
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\obj\Debug\net8.0\Empresa.MiComercio.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\obj\Debug\net8.0\Empresa.MiComercio.Application.DTO.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\obj\Debug\net8.0\refint\Empresa.MiComercio.Application.DTO.dll
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\obj\Debug\net8.0\Empresa.MiComercio.Application.DTO.pdb
+C:\Users\Luis Osuna\Desktop\NetCore\Empresa.MiComercio\Empresa.MiComercio.Application.DTO\obj\Debug\net8.0\ref\Empresa.MiComercio.Application.DTO.dll

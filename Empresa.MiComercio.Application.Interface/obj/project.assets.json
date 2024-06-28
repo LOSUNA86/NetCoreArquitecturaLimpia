@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Empresa.MiComercio.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Empresa.MiComercio.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Empresa.MiComercio.Application.DTO.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Empresa.MiComercio.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Empresa.MiComercio.Domain.dll": {}
+        }
+      },
+      "Empresa.MiComercio.Transversal.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Empresa.MiComercio.Transversal.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Empresa.MiComercio.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empresa.MiComercio.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Empresa.MiComercio.Application.DTO/Empresa.MiComercio.Application.DTO.csproj",
+      "msbuildProject": "../Empresa.MiComercio.Application.DTO/Empresa.MiComercio.Application.DTO.csproj"
+    },
+    "Empresa.MiComercio.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Empresa.MiComercio.Domain/Empresa.MiComercio.Domain.csproj",
+      "msbuildProject": "../Empresa.MiComercio.Domain/Empresa.MiComercio.Domain.csproj"
+    },
+    "Empresa.MiComercio.Transversal.Common/1.0.0": {
+      "type": "project",
+      "path": "../Empresa.MiComercio.Transversal.Common/Empresa.MiComercio.Transversal.Common.csproj",
+      "msbuildProject": "../Empresa.MiComercio.Transversal.Common/Empresa.MiComercio.Transversal.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Empresa.MiComercio.Application.DTO >= 1.0.0",
+      "Empresa.MiComercio.Domain >= 1.0.0",
+      "Empresa.MiComercio.Transversal.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Luis Osuna\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Application.Interface\\Empresa.MiComercio.Application.Interface.csproj",
+      "projectName": "Empresa.MiComercio.Application.Interface",
+      "projectPath": "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Application.Interface\\Empresa.MiComercio.Application.Interface.csproj",
+      "packagesPath": "C:\\Users\\Luis Osuna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Application.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Luis Osuna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Application.DTO\\Empresa.MiComercio.Application.DTO.csproj": {
+              "projectPath": "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Application.DTO\\Empresa.MiComercio.Application.DTO.csproj"
+            },
+            "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Domain\\Empresa.MiComercio.Domain.csproj": {
+              "projectPath": "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Domain\\Empresa.MiComercio.Domain.csproj"
+            },
+            "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Transversal.Common\\Empresa.MiComercio.Transversal.Common.csproj": {
+              "projectPath": "C:\\Users\\Luis Osuna\\Desktop\\NetCore\\Empresa.MiComercio\\Empresa.MiComercio.Transversal.Common\\Empresa.MiComercio.Transversal.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Empresa.MiComercio.Application.DTO\Empresa.MiComercio.Application.DTO.csproj" />
+    <ProjectReference Include="..\Empresa.MiComercio.Domain\Empresa.MiComercio.Domain.csproj" />
+    <ProjectReference Include="..\Empresa.MiComercio.Transversal.Common\Empresa.MiComercio.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>
